@@ -1,5 +1,6 @@
 fx_version 'cerulean'
 games { 'gta5' }
+Auther 'TinoKi'
 
 client_scripts {
 	'@es_extended/locale.lua',
